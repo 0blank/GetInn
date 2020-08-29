@@ -1,0 +1,61 @@
+.back_color {
+  background-color: #e1dcd9;
+}
+.primary_color {
+  background-color: #ac7c44;
+}
+.secondary_color {
+  background-color: #8f8681;
+}
+.secondary_dark_color {
+  background-color: #32435f;
+}
+* {
+  margin: 0;
+}
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif; */
+  /* font-family: "Amatic SC", cursive; */
+  font-family: "Josefin Slab", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  background-color: #fffacd;
+  height: 100%;
+  width: 100%;
+}
+
+// button {
+//   padding: 0.5rem 1rem;
+//   border-radius: 8px;
+//   background: linear-gradient(145deg, #95726c, #b28880);
+//   box-shadow: 20px 20px 60px #8d6c66, -20px -20px 60px #bf928a;
+//   cursor: pointer;
+//   &:focus {
+//     border: none;
+//   }
+// }
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+img {
+  /* disables dragging on img elements */
+  pointer-events: none;
+}
