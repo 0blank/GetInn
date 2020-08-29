@@ -1,6 +1,6 @@
 {
-  "short_name": "NepHotel",
-  "name": "All hotels at one place",
+  "short_name": "Get INN",
+  "name": "Get INN",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ac7c44",
+  "background_color": "#e1dcd9"
 }
