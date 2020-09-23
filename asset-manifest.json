@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GetInn/static/css/main.add6859f.chunk.css",
-    "main.js": "/GetInn/static/js/main.639706ef.chunk.js",
-    "main.js.map": "/GetInn/static/js/main.639706ef.chunk.js.map",
+    "main.js": "/GetInn/static/js/main.beb41026.chunk.js",
+    "main.js.map": "/GetInn/static/js/main.beb41026.chunk.js.map",
     "runtime-main.js": "/GetInn/static/js/runtime-main.1303dfc1.js",
     "runtime-main.js.map": "/GetInn/static/js/runtime-main.1303dfc1.js.map",
     "static/css/2.2774b781.chunk.css": "/GetInn/static/css/2.2774b781.chunk.css",
     "static/js/2.9e2a2d6b.chunk.js": "/GetInn/static/js/2.9e2a2d6b.chunk.js",
     "static/js/2.9e2a2d6b.chunk.js.map": "/GetInn/static/js/2.9e2a2d6b.chunk.js.map",
     "index.html": "/GetInn/index.html",
-    "precache-manifest.ff2f68e29a54436d45fb719f17a673ff.js": "/GetInn/precache-manifest.ff2f68e29a54436d45fb719f17a673ff.js",
+    "precache-manifest.1add180e60e5f5ecdcda45209b31cf36.js": "/GetInn/precache-manifest.1add180e60e5f5ecdcda45209b31cf36.js",
     "service-worker.js": "/GetInn/service-worker.js",
     "static/css/2.2774b781.chunk.css.map": "/GetInn/static/css/2.2774b781.chunk.css.map",
     "static/css/main.add6859f.chunk.css.map": "/GetInn/static/css/main.add6859f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2774b781.chunk.css",
     "static/js/2.9e2a2d6b.chunk.js",
     "static/css/main.add6859f.chunk.css",
-    "static/js/main.639706ef.chunk.js"
+    "static/js/main.beb41026.chunk.js"
   ]
 }
